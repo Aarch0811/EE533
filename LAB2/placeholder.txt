@@ -1,0 +1,2 @@
+Hi,
+This is Lab-2 for EE533 Designing of 32-bit Arithmatic Logic Unit (ALU) using Xilinx ISE 10.1
