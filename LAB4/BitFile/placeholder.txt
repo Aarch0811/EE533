@@ -1,1 +1,0 @@
-This is the sub-folder for bitfile. Please find all the relevant files here.
